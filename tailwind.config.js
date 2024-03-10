@@ -7,8 +7,14 @@ module.exports = {
       {
       'dancing-script':['Caveat'],
       'poppins':['Poppins'],
+      },
+      colors:{
+   
+        'color-grey':'#e9ecef',
+
       }
     },
+
   },
   plugins: [],
 }
