@@ -7,6 +7,7 @@ Welcome to the Big Boys Clothing Website Landing Page repository! This landing p
 - Visually stunning landing page design.
 - Easy-to-use navigation for exploring different sections of the landing page.
 
+!(shirt003.jpg)
 
 - ## Demo
 
