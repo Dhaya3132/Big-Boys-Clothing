@@ -7,7 +7,10 @@ Welcome to the Big Boys Clothing Website Landing Page repository! This landing p
 - Visually stunning landing page design.
 - Easy-to-use navigation for exploring different sections of the landing page.
 
+## ScreenShots
 ![Screenshot 01](https://github.com/Dhaya3132/Big-Boys-Clothing/assets/135351029/18da7fa6-0a9d-418d-a23f-bb1bb4f3abe6)
+![Screenshot 02](https://github.com/Dhaya3132/Big-Boys-Clothing/assets/135351029/56ef71eb-1390-44c4-8902-a7bf31293f56)
+![Screenshot 203](https://github.com/Dhaya3132/Big-Boys-Clothing/assets/135351029/04d5e3ed-894e-458b-95e9-87cf09b1d22b)
 
 - ## Demo
 
