@@ -5,9 +5,8 @@ Welcome to the Big Boys Clothing Website Landing Page repository! This landing p
 ## Features
 
 - Visually stunning landing page design.
-- Responsive layout that adapts seamlessly to various screen sizes and devices.
-- Interactive elements powered by JavaScript to enhance user experience.
 - Easy-to-use navigation for exploring different sections of the landing page.
+
 
 - ## Demo
 
